@@ -1,0 +1,31 @@
+Objective :
+To apply knowledge and skills of Python programming and business analytics to organize and analyze real-life data for meaningful insights.
+
+Executive summary :
+Crowdfunding means collecting funds for a project or commercial endeavor by soliciting contributions from a large number of people using an online 
+platform. Our project focuses on Kiva.org, one of the world's most popular crowdfunding platforms.
+
+Kiva.org is a prosocial crowdfunding platform where people from all around the world lend money to people in need. Kiva's purpose is to alleviate poverty
+in underdeveloped nations by allowing crowd-funded interest-free loans to underprivileged individuals and organizations. Kiva has made $1.63 billion in 
+loans to over 4 million borrowers in 77 countries from over 1.9 million lenders since its inception in 2005. Despite its rapid expansion, Kiva has 
+managed to keep a 96.2 percent repayment rate.
+
+In our project, we are going to predict the status of the loan either 'funded' or 'notfunded' based on different variables(features). We have use two 
+models "Logistic Regression" and "Decision Tree" for data modeling.
+
+Project motivation/background :
+Kiva.org, which was founded in 2005, is one of the largest online crowdfunding platforms in the world, allowing people to lend money to under represented
+entrepreneurs all around the world. Kiva's objective is to "connect people through loans to alleviate poverty," and it aims to give safe and cheap access 
+to capital in areas where traditional banking services are unavailable, allowing people to become entrepreneurs and create possibilities for themselves 
+and their families.
+
+Kiva serves borrowers and lenders via the internet. Lenders who are willing to invest look through the various profiles of people looking for microcredit
+based on the loan request and borrower's attributes and invests on them. Kiva does not get any income on the loans it facilitates, and neither do Kiva 
+lenders. Borrowers, on the other hand, pay interest to the financing process's intermediates, known as field partners, who are effectively the ones that 
+carry the majority of the risk.
+
+Kiva is active in 77 underdeveloped countries and collaborates with 304 field partners, according to statistics obtained in March 2015. In comparison to
+many other lending systems, Kiva stands out for its work with field partners. The field partners' purpose is to help the process along by creating a local
+presence and advancing funds to the borrowers prior to posting the loan request on the Kiva platform, allowing the borrowers to get a head start on their 
+business.Kiva has made $1.63 billion in loans from over 1.9 million lenders since its inception in 2005. Kiva has managed to keep a 96.2 percent repayment 
+rate. Considering different criteria, Kiva will decide whether to fund the loan to the borrower.
