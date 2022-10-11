@@ -1,4 +1,4 @@
-# Manisha-Kotha
+# Data Visualization - Tableau tool
 Projects
 
 Data Visualization of NYC Airbnb Dataset 
